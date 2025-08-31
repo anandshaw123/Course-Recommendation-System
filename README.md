@@ -1,4 +1,4 @@
-# Course-Recommendation-System
+# Course Recommendation System
 
 
 
@@ -53,7 +53,7 @@ This project is a Course Recommendation System that helps users discover relevan
 
 ## Author & Contact:
 
-A machine learning project to detect and classify news articles as real or fake.  
+A machine learning project to Recommend users to discover relevant courses based on their search.
 
 
 ## 👤 **Anand Shaw**  
