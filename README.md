@@ -35,7 +35,7 @@ This project is a Course Recommendation System that helps users discover relevan
 
 5. Recommendation Engine – Returns top-N similar courses.
 
-6. Deployment – Integrated with Streamlit / Flask for user interaction.
+6. Deployment – Flask for user interaction.
 
 
 
