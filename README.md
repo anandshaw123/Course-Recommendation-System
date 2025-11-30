@@ -27,7 +27,7 @@ This project is a Course Recommendation System that helps users discover relevan
 
 3. Feature Engineering – Extract keywords, tokenize, and vectorize course descriptions.
 
-4. Modeling
+4. Modeling (Model Building)
 
 - Used TF-IDF Vectorization on course descriptions.
 
